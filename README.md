@@ -35,5 +35,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.
 
+### `Screenshots of project`
 
-
+![Screenshot (37)](https://user-images.githubusercontent.com/78892305/136836105-a29871dc-6690-4fa9-bec9-1172c3efbc20.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/78892305/136836120-c4c977ac-23bb-4081-9398-d4d29c379cba.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/78892305/136836129-1d18612f-35c1-4a3a-9bda-432e65673867.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/78892305/136836130-a92ad956-26ea-424e-8ce2-24ed2fd6f37c.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/78892305/136836135-a1487b80-298c-4021-b33b-db542b25354d.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/78892305/136836145-884bd6b1-6d31-455f-a687-4611222a3987.png)
