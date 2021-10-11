@@ -1,6 +1,7 @@
 # Spnix
 This project is clone of the landing page of [SPNIX](https://www.spinxdigital.com/).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Made this for Programming Club Recruitment Task(frontend).
 
 The following dependencies need to be installed to run the project
 
