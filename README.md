@@ -1,5 +1,5 @@
 # Spnix
-This project is clone of [SPNIX](https://www.spinxdigital.com/).
+This project is clone of the landing page of [SPNIX](https://www.spinxdigital.com/).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 The following dependencies need to be installed to run the project
@@ -32,7 +32,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
+The page will reload if you make edits.
 
 
 
