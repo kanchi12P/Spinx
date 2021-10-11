@@ -1,0 +1,12 @@
+.home {
+    background-image: url("../../src/images/home.png");
+    text-align: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 15%;
+    padding-bottom: 20%;
+}
+
+h1 {
+    font-size: 500%;
+}
